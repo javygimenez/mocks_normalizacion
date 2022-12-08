@@ -1,0 +1,90 @@
+[
+    {
+        "author": {
+        "id": "juan@mail.com", 
+        "nombre": "Juan", 
+        "apellido": "Perez", 
+        "edad": "20", 
+        "alias": "Ju",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "Jose@mail.com", 
+        "nombre": "Jose", 
+        "apellido": "Gomez", 
+        "edad": "22", 
+        "alias": "Jo",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "pablo@mail.com", 
+        "nombre": "Pablo", 
+        "apellido": "Sosa", 
+        "edad": "24", 
+        "alias": "Pa",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "tomas@mail.com", 
+        "nombre": "Tomas", 
+        "apellido": "Mate", 
+        "edad": "26", 
+        "alias": "Tom",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "pedro@mail.com", 
+        "nombre": "Pedro", 
+        "apellido": "Lopez", 
+        "edad": "28", 
+        "alias": "Peter",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "lucas@mail.com", 
+        "nombre": "Lucas", 
+        "apellido": "Diaz", 
+        "edad": "28", 
+        "alias": "Luc",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "simon@mail.com", 
+        "nombre": "Simon", 
+        "apellido": "Rodriguez", 
+        "edad": "29", 
+        "alias": "Si",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    },
+    {
+        "author": {
+        "id": "laura@mail.com", 
+        "nombre": "Laura", 
+        "apellido": "Lopez", 
+        "edad": "23", 
+        "alias": "Lau",
+        "avatar": "avatar (foto) del usuario"
+        },
+        "text": "asd asdf asdfg"
+    }
+]
